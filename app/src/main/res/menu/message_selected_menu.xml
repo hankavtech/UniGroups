@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/reply_item"
+          android:title="reply"
+          android:icon="@drawable/ic_baseline_reply_24"
+          app:showAsAction="always"
+        />
+
+
+    <item android:id="@+id/delete_item"
+        android:title="delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        app:showAsAction="always"
+        />
+
+
+    <item android:id="@+id/forward_item"
+        android:title="forward"
+        android:icon="@drawable/ic_baseline_forward_24"
+        app:showAsAction="always"
+        />
+</menu>
