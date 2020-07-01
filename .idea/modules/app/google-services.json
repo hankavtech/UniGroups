@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146903098805",
+    "firebase_url": "https://unigo-f900d.firebaseio.com",
+    "project_id": "unigo-f900d",
+    "storage_bucket": "unigo-f900d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146903098805:android:1474c9985dda4496ec25fc",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146903098805-tq0fd6nbukj1ljnmt7q5qpm9emioad0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "c30b43c614a68e810d06fad9a30c9ce7d9771ba8"
+          }
+        },
+        {
+          "client_id": "146903098805-tbndsnfjmqg6jd4ngh2f6cf6eln62h1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPSjhyeHdAmxUHzB2Q0trDj0f_bEBfqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146903098805-tbndsnfjmqg6jd4ngh2f6cf6eln62h1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
